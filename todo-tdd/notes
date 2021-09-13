@@ -1,0 +1,7 @@
+
+More notes:
+
+  1. in package.json>scripts -> jest <--watchAll> gives functionality
+      to run tests everytime a file is saved
+  2. supertest is for writing integration tests
+  3. jest runner (extesion) - for debugging jest tests
